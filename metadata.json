@@ -1,0 +1,7 @@
+{
+  "name": "Meridian",
+  "description": "Meet people who care about what you care about. A clean, professional networking mobile app prototype driven by shared interests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
